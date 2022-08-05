@@ -5,7 +5,7 @@ import SignUpForm from './forms/SignUpForm';
 function App() {
   return (
     <div className="App">
-      <SignUpForm></SignUpForm>
+      <SignUpForm />
     </div>
   );
 }
